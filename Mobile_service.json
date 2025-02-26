@@ -1,0 +1,893 @@
+{
+    "Apple": {
+        "iPhone 15 Series": [
+            {
+                "product_name": "iPhone 15 Pro Max",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "4441 mAh"
+            },
+            {
+                "product_name": "iPhone 15 Pro",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3274 mAh"
+            },
+            {
+                "product_name": "iPhone 15 Plus",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "4383 mAh"
+            },
+            {
+                "product_name": "iPhone 15",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3349 mAh"
+            }
+        ],
+        "iPhone 14 Series": [
+            {
+                "product_name": "iPhone 14 Pro Max",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "4323 mAh"
+            },
+            {
+                "product_name": "iPhone 14 Pro",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3200 mAh"
+            },
+            {
+                "product_name": "iPhone 14 Plus",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "4325 mAh"
+            },
+            {
+                "product_name": "iPhone 14",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3279 mAh"
+            }
+        ],
+        "iPhone 13 Series": [
+            {
+                "product_name": "iPhone 13 Pro Max",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "4352 mAh"
+            },
+            {
+                "product_name": "iPhone 13 Pro",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3095 mAh"
+            },
+            {
+                "product_name": "iPhone 13",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3240 mAh"
+            },
+            {
+                "product_name": "iPhone 13 Mini",
+                "screen_size": "5.4 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "2438 mAh"
+            }
+        ],
+        "iPhone 12 Series": [
+            {
+                "product_name": "iPhone 12 Pro Max",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3687 mAh"
+            },
+            {
+                "product_name": "iPhone 12 Pro",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "2815 mAh"
+            },
+            {
+                "product_name": "iPhone 12",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "2815 mAh"
+            },
+            {
+                "product_name": "iPhone 12 Mini",
+                "screen_size": "5.4 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "2227 mAh"
+            }
+        ],
+        "iPhone SE Series": [
+            {
+                "product_name": "iPhone SE (3rd Gen)",
+                "screen_size": "4.7 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "2018 mAh"
+            }
+        ]
+    },
+
+    "Samsung": {
+        "Galaxy S Series": [
+            {
+                "product_name": "Samsung Galaxy S23 Ultra",
+                "screen_size": "6.8 inches",
+                "charger_capacity": "45W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Samsung Galaxy S23+",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "45W fast charging",
+                "battery_capacity": "4700 mAh"
+            },
+            {
+                "product_name": "Samsung Galaxy S23",
+                "screen_size": "6.1 inches",
+                "charger_capacity": "25W fast charging",
+                "battery_capacity": "3900 mAh"
+            }
+        ],
+        "Galaxy Z Series": [
+            {
+                "product_name": "Samsung Galaxy Z Fold 5",
+                "screen_size": "7.6 inches (inner)",
+                "charger_capacity": "25W fast charging",
+                "battery_capacity": "4400 mAh"
+            },
+            {
+                "product_name": "Samsung Galaxy Z Flip 5",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "25W fast charging",
+                "battery_capacity": "3700 mAh"
+            }
+        ],
+        "Galaxy A Series": [
+            {
+                "product_name": "Samsung Galaxy A54",
+                "screen_size": "6.4 inches",
+                "charger_capacity": "25W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Samsung Galaxy A34",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "25W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Galaxy M Series": [
+            {
+                "product_name": "Samsung Galaxy M14",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "25W fast charging",
+                "battery_capacity": "6000 mAh"
+            }
+        ],
+        "Galaxy F Series": [
+            {
+                "product_name": "Samsung Galaxy F14",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "25W fast charging",
+                "battery_capacity": "6000 mAh"
+            }
+        ]
+    },
+    "OnePlus": {
+        "OnePlus 13 Series": [
+            {
+                "product_name": "OnePlus 13",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "100W fast charging",
+                "battery_capacity": "6000 mAh"
+            },
+            {
+                "product_name": "OnePlus 13R",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "100W fast charging",
+                "battery_capacity": "6000 mAh"
+            }
+        ],
+        "OnePlus 12 Series": [
+            {
+                "product_name": "OnePlus 12",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "100W fast charging",
+                "battery_capacity": "5400 mAh"
+            },
+            {
+                "product_name": "OnePlus 12R",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "100W fast charging",
+                "battery_capacity": "5400 mAh"
+            }
+        ],
+        "OnePlus 11 Series": [
+            {
+                "product_name": "OnePlus 11",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "100W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "OnePlus 10 Series": [
+            {
+                "product_name": "OnePlus 10 Pro",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "80W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "OnePlus 10T",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "150W fast charging",
+                "battery_capacity": "4800 mAh"
+            }
+        ],
+        "OnePlus 9 Series": [
+            {
+                "product_name": "OnePlus 9 Pro",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "4500 mAh"
+            },
+            {
+                "product_name": "OnePlus 9",
+                "screen_size": "6.55 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "4500 mAh"
+            }
+        ],
+        "OnePlus 8 Series": [
+            {
+                "product_name": "OnePlus 8 Pro",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "30W fast charging",
+                "battery_capacity": "4510 mAh"
+            },
+            {
+                "product_name": "OnePlus 8",
+                "screen_size": "6.55 inches",
+                "charger_capacity": "30W fast charging",
+                "battery_capacity": "4300 mAh"
+            }
+        ],
+        "OnePlus 7 Series": [
+            {
+                "product_name": "OnePlus 7T Pro",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "30W fast charging",
+                "battery_capacity": "4085 mAh"
+            },
+            {
+                "product_name": "OnePlus 7T",
+                "screen_size": "6.55 inches",
+                "charger_capacity": "30W fast charging",
+                "battery_capacity": "3800 mAh"
+            },
+            {
+                "product_name": "OnePlus 7 Pro",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "30W fast charging",
+                "battery_capacity": "4000 mAh"
+            },
+            {
+                "product_name": "OnePlus 7",
+                "screen_size": "6.41 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3700 mAh"
+            }
+        ],
+        "OnePlus 6 Series": [
+            {
+                "product_name": "OnePlus 6T",
+                "screen_size": "6.41 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3700 mAh"
+            },
+            {
+                "product_name": "OnePlus 6",
+                "screen_size": "6.28 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3300 mAh"
+            }
+        ],
+        "OnePlus 5 Series": [
+            {
+                "product_name": "OnePlus 5T",
+                "screen_size": "6.01 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3300 mAh"
+            },
+            {
+                "product_name": "OnePlus 5",
+                "screen_size": "5.5 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3300 mAh"
+            }
+        ],
+        "OnePlus 3 Series": [
+            {
+                "product_name": "OnePlus 3T",
+                "screen_size": "5.5 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3400 mAh"
+            },
+            {
+                "product_name": "OnePlus 3",
+                "screen_size": "5.5 inches",
+                "charger_capacity": "20W fast charging",
+                "battery_capacity": "3000 mAh"
+            }
+        ],
+        "OnePlus Nord Series": [
+            {
+                "product_name": "OnePlus Nord 3",
+                "screen_size": "6.74 inches",
+                "charger_capacity": "80W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "OnePlus Nord CE 3",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "80W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "OnePlus Nord CE 2 Lite",
+                "screen_size": "6.59 inches",
+                "charger_capacity": "33W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "OnePlus Nord CE 4",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "100W fast charging",
+                "battery_capacity": "5500 mAh"
+            },
+            {
+                "product_name": "OnePlus Nord N30",
+                "screen_size": "6.72 inches",
+                "charger_capacity": "50W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ]
+    },
+    "Realme": {
+        "Realme 14 Series": [
+            {
+                "product_name": "Realme 14 Pro+ 5G",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "80W fast charging",
+                "battery_capacity": "6000 mAh"
+            },
+            {
+                "product_name": "Realme 14 Pro 5G",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "80W fast charging",
+                "battery_capacity": "6000 mAh"
+            },
+            {
+                "product_name": "Realme 14x 5G",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Realme GT Series": [
+            {
+                "product_name": "Realme GT 7 Pro",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "120W fast charging",
+                "battery_capacity": "6500 mAh"
+            }
+        ],
+        "Realme P Series": [
+            {
+                "product_name": "Realme P3 Pro 5G",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme P3x 5G",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Realme C Series": [
+            {
+                "product_name": "Realme C75",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "33W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme C61",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "33W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme C67",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "33W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme C65",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "33W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme C63",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "33W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Realme Note Series": [
+            {
+                "product_name": "Realme Note 60x",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme Note 60",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme Note 50",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Realme Narzo Series": [
+            {
+                "product_name": "Realme Narzo 70 Pro 5G",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme Narzo 70 5G",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme Narzo 70x 5G",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Realme 13 Series": [
+            {
+                "product_name": "Realme 13 Pro+ 5G",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "80W fast charging",
+                "battery_capacity": "6000 mAh"
+            },
+            {
+                "product_name": "Realme 13 Pro 5G",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "80W fast charging",
+                "battery_capacity": "6000 mAh"
+            },
+            {
+                "product_name": "Realme 13x 5G",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Realme 13 4G",
+                "screen_size": "6.6 inches",
+                "charger_capacity": "65W fast charging",
+                "battery_capacity": "5000 mAh"
+            }
+        ]
+    },
+    "Xiaomi": {
+        "Xiaomi 14 Series": [
+            {
+                "product_name": "Xiaomi 14 Ultra",
+                "screen_size": "6.73 inches",
+                "charger_capacity": "90W wired, 50W wireless",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Xiaomi 14",
+                "screen_size": "6.36 inches",
+                "charger_capacity": "67W wired, 50W wireless",
+                "battery_capacity": "4500 mAh"
+            },
+            {
+                "product_name": "Xiaomi 14T",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Xiaomi 14T Pro",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "120W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Xiaomi 13 Series": [
+            {
+                "product_name": "Xiaomi 13T Pro",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "120W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Xiaomi 13T",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Xiaomi 13 Pro",
+                "screen_size": "6.73 inches",
+                "charger_capacity": "120W wired, 50W wireless",
+                "battery_capacity": "4820 mAh"
+            },
+            {
+                "product_name": "Xiaomi 13",
+                "screen_size": "6.36 inches",
+                "charger_capacity": "67W wired, 50W wireless",
+                "battery_capacity": "4500 mAh"
+            }
+        ],
+        "Redmi Note Series": [
+            {
+                "product_name": "Redmi Note 14 Pro+ 5G",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "120W wired",
+                "battery_capacity": "6200 mAh"
+            },
+            {
+                "product_name": "Redmi Note 14 Pro 5G",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Redmi Note 14 5G",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "33W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Redmi Series": [
+            {
+                "product_name": "Redmi 14C 5G",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "18W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ]
+        
+    },
+    "Xiaomi": {
+        "Xiaomi 14 Series": [
+            {
+                "product_name": "Xiaomi 14 Ultra",
+                "screen_size": "6.73 inches",
+                "charger_capacity": "90W wired, 50W wireless",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Xiaomi 14",
+                "screen_size": "6.36 inches",
+                "charger_capacity": "67W wired, 50W wireless",
+                "battery_capacity": "4500 mAh"
+            },
+            {
+                "product_name": "Xiaomi 14T",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Xiaomi 14T Pro",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "120W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Xiaomi 13 Series": [
+            {
+                "product_name": "Xiaomi 13T Pro",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "120W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Xiaomi 13T",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Xiaomi 13 Pro",
+                "screen_size": "6.73 inches",
+                "charger_capacity": "120W wired, 50W wireless",
+                "battery_capacity": "4820 mAh"
+            },
+            {
+                "product_name": "Xiaomi 13",
+                "screen_size": "6.36 inches",
+                "charger_capacity": "67W wired, 50W wireless",
+                "battery_capacity": "4500 mAh"
+            }
+        ]
+    },
+    "Vivo": {
+        "Vivo X Series": [
+            {
+                "product_name": "Vivo X100 Pro",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "100W wired, 50W wireless",
+                "battery_capacity": "5400 mAh"
+            },
+            {
+                "product_name": "Vivo X100",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "120W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Vivo V Series": [
+            {
+                "product_name": "Vivo V29 Pro",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "80W wired",
+                "battery_capacity": "4600 mAh"
+            },
+            {
+                "product_name": "Vivo V29",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "80W wired",
+                "battery_capacity": "4600 mAh"
+            }
+        ],
+        "Vivo Y Series": [
+            {
+                "product_name": "Vivo Y200",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "44W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Vivo Y100",
+                "screen_size": "6.38 inches",
+                "charger_capacity": "44W wired",
+                "battery_capacity": "4500 mAh"
+            }
+        ],
+        "Vivo T Series": [
+            {
+                "product_name": "Vivo T2 5G",
+                "screen_size": "6.38 inches",
+                "charger_capacity": "44W wired",
+                "battery_capacity": "4700 mAh"
+            }
+        ],
+        "Vivo iQOO Series": [
+            {
+                "product_name": "Vivo iQOO 12",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "120W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Vivo iQOO 11",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "120W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ]
+    },
+    
+    "Oppo": {
+        "Find X Series": [
+            {
+                "product_name": "Oppo Find X7 Ultra",
+                "screen_size": "6.82 inches",
+                "charger_capacity": "100W wired, 50W wireless",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Oppo Find X7",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "80W wired",
+                "battery_capacity": "4800 mAh"
+            }
+        ],
+        "Reno Series": [
+            {
+                "product_name": "Oppo Reno 11 Pro",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "80W wired",
+                "battery_capacity": "4600 mAh"
+            },
+            {
+                "product_name": "Oppo Reno 11",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "4800 mAh"
+            }
+        ],
+        "A Series": [
+            {
+                "product_name": "Oppo A98 5G",
+                "screen_size": "6.72 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Oppo A78 5G",
+                "screen_size": "6.56 inches",
+                "charger_capacity": "33W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "K Series": [
+            {
+                "product_name": "Oppo K11",
+                "screen_size": "6.7 inches",
+                "charger_capacity": "100W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "F Series": [
+            {
+                "product_name": "Oppo F23 5G",
+                "screen_size": "6.72 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ]
+    },
+    "Poco": {
+        "Poco X Series": [
+            {
+                "product_name": "Poco X5 Pro",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Poco X5",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "33W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Poco F Series": [
+            {
+                "product_name": "Poco F5 Pro",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "67W wired, 30W wireless",
+                "battery_capacity": "5160 mAh"
+            },
+            {
+                "product_name": "Poco F5",
+                "screen_size": "6.67 inches",
+                "charger_capacity": "67W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Poco M Series": [
+            {
+                "product_name": "Poco M5s",
+                "screen_size": "6.43 inches",
+                "charger_capacity": "33W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Poco M5",
+                "screen_size": "6.58 inches",
+                "charger_capacity": "18W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ]
+    },
+    "Nokia": {
+        "X Series": [
+            {
+                "product_name": "Nokia X30 5G",
+                "screen_size": "6.43 inches",
+                "charger_capacity": "33W wired",
+                "battery_capacity": "4200 mAh"
+            }
+        ],
+        "G Series": [
+            {
+                "product_name": "Nokia G60 5G",
+                "screen_size": "6.58 inches",
+                "charger_capacity": "20W wired",
+                "battery_capacity": "4500 mAh"
+            },
+            {
+                "product_name": "Nokia G22",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "20W wired",
+                "battery_capacity": "5050 mAh"
+            }
+        ],
+        "C Series": [
+            {
+                "product_name": "Nokia C32",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "10W wired",
+                "battery_capacity": "5000 mAh"
+            },
+            {
+                "product_name": "Nokia C12",
+                "screen_size": "6.3 inches",
+                "charger_capacity": "5W wired",
+                "battery_capacity": "3000 mAh"
+            }
+        ],
+        "XR Series": [
+            {
+                "product_name": "Nokia XR21",
+                "screen_size": "6.49 inches",
+                "charger_capacity": "33W wired",
+                "battery_capacity": "4800 mAh"
+            }
+        ]
+    },
+    "Lava": {
+        "Blaze Series": [
+            {
+                "product_name": "Lava Blaze 5G",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "18W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "Agni Series": [
+            {
+                "product_name": "Lava Agni 2",
+                "screen_size": "6.78 inches",
+                "charger_capacity": "66W wired",
+                "battery_capacity": "4700 mAh"
+            }
+        ],
+        "Yuva Series": [
+            {
+                "product_name": "Lava Yuva 2 Pro",
+                "screen_size": "6.5 inches",
+                "charger_capacity": "10W wired",
+                "battery_capacity": "5000 mAh"
+            }
+        ],
+        "X Series": [
+            {
+                "product_name": "Lava X3",
+                "screen_size": "6.52 inches",
+                "charger_capacity": "10W wired",
+                "battery_capacity": "4000 mAh"
+            }
+        ]
+    }
+}
