@@ -1,0 +1,1822 @@
+{
+    "laptop": {
+      "brand": "HP",
+      "series": [
+        {
+          "seriesName": "Pavilion",
+          "models": [
+            {
+              "modelName": "HP Pavilion 16 16-AF0028TU",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 14-EP0068TU",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15 EG2036TU",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-eg0103TX",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-DK0045TX",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-BC444TX",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-P157CL",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-CS1052TX",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-CS0059NR",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-CW0000",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-CX0020NR",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 1KT34UA",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 14-dv0053TU",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 13-bb0075TU",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 17-G121WM",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 14-bf050wm",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-CU0058NR",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion 15-P001TX",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Pavilion Plus",
+          "models": [
+            {
+              "modelName": "HP Pavilion Plus 16 (2023)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion Plus 14 (2023)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion Plus 14",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Pavilion Aero",
+          "models": [
+            {
+              "modelName": "HP Pavilion Aero 13",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Pavilion x360",
+          "models": [
+            {
+              "modelName": "HP Pavilion x360 14-EK1009TU",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion x360 2021",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion X360 15-cr0017nr",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion X360 14M-CD0003DX",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion x360 14 (2020)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Pavilion X360 13-U157",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "OmniBook Ultra Flip",
+          "models": [
+            {
+              "modelName": "HP OmniBook Ultra Flip 14 Ultra 9",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP OmniBook Ultra Flip 14 Ultra 7",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "OmniBook",
+          "models": [
+            {
+              "modelName": "HP OmniBook X",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "EliteBook Ultra",
+          "models": [
+            {
+              "modelName": "HP EliteBook Ultra G1q",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "EliteBook",
+          "models": [
+            {
+              "modelName": "HP EliteBook 1040 G9",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook 830 G9",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP EliteBook 840 G9",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP EliteBook 860 G9",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP EliteBook 835 G7",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook 830 G7",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook 1040 G3",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook 745 G5",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP EliteBook 755 G5",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP EliteBook P0C66UTABA",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "EliteBook x360",
+          "models": [
+            {
+              "modelName": "HP EliteBook x360 830 G9",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook x360 1040 G9",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook x360 1040 G7",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Elite Dragonfly",
+          "models": [
+            {
+              "modelName": "HP Elite Dragonfly G3",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Elite Dragonfly G2",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Elite Dragonfly Max",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Elite Folio",
+          "models": [
+            {
+              "modelName": "HP Elite Folio",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook Folio L4A53UTABA",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook Folio L4A55UTABA",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP EliteBook Folio P0B89UTABA",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP EliteBook Folio L4A51UTABA",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Envy x360",
+          "models": [
+            {
+              "modelName": "HP Envy x360 14",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Envy x360 15 (AI-powered)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Envy x360 15 (2023)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Envy x360 15 (2022)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Envy x360 13 (2022)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Envy x360 15 (2020)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Envy x360 13 (2020)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Envy x360 15M",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Envy x360 13-AG0035AU",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Envy",
+          "models": [
+            {
+              "modelName": "HP Envy 17 (2022)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Envy 16 (2022)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Envy 13 (2020)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Envy 15 (2020)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Envy 14-eb0021TX",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Envy 15 (2021)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Envy 14-eb0010nr",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Envy 8550",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Envy 17",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Envy X2",
+          "models": [
+            {
+              "modelName": "HP Envy X2 12-G018NR",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Spectre x360",
+          "models": [
+            {
+              "modelName": "HP Spectre x360 16-F2005TX",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 14 (2024)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 16 (2024)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 16 f-1003tu",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 13.5 ef-0053tu",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 13.5",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 16 (2022)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 13 (2019)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 LTE",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 13-ap0101tu",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 14",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Spectre x360 16",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Spectre Foldable",
+          "models": [
+            {
+              "modelName": "HP Spectre Foldable",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Omen Transcend",
+          "models": [
+            {
+              "modelName": "HP Omen Transcend 14-FB0089TX",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Omen Transcend 16 (2023)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Omen",
+          "models": [
+            {
+              "modelName": "HP Omen 16 (2023)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Omen 16 (2022)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Omen 17 (2021)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Omen 16 (2021)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Omen 15 (2020)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Omen X",
+          "models": [
+            {
+              "modelName": "HP Omen X 2S",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Victus",
+          "models": [
+            {
+              "modelName": "HP Victus 16 (2023)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Victus 15 (2022)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Victus E Series",
+          "models": [
+            {
+              "modelName": "HP Victus 16 E Series",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Victus D Series",
+          "models": [
+            {
+              "modelName": "HP Victus 16 D Series",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Chromebook x360",
+          "models": [
+            {
+              "modelName": "HP Chromebook x360 14a (Intel)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Chromebook x360 14a",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Chromebook x360 14c (2021)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Chromebook x360",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Chromebook",
+          "models": [
+            {
+              "modelName": "HP Chromebook 11a",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ChromeBook 11 3NU57UT",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ChromeBook 11 F2J08AA",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ChromeBook 3PH11UA",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ChromeBook 14-AK031NR",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Chromebook x2",
+          "models": [
+            {
+              "modelName": "HP Chromebook x2 11",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Pro x360 Fortis",
+          "models": [
+            {
+              "modelName": "HP Pro x360 Fortis 11 G10",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pro x360 Fortis 11 G9",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ProBook Fortis",
+          "models": [
+            {
+              "modelName": "HP ProBook Fortis 14 G10",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ProBook Fortis 14 G9",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ProBook",
+          "models": [
+            {
+              "modelName": "HP ProBook 455 G8",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ProBook 445 G8",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ProBook 11 EE G2",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ProBook 640 G2",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ProBook 645 G4",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ProBook 470",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ProBook 455 G5",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ProBook 11 G2",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ProBook 655 G3",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ProBook 640 G1",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ProBook x360",
+          "models": [
+            {
+              "modelName": "HP ProBook x360 435 G8",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ProBook X360 11 G1",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ProBook X360",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ProBook X360 440 G1",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ProBook Aero",
+          "models": [
+            {
+              "modelName": "HP ProBook 635 Aero G8",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ProBook 635 Aero G7",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Notebook",
+          "models": [
+            {
+              "modelName": "HP Notebook 15-da0295tu",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 15-BW017CL",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 14-DF0010NR",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 4JC27UA",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 17-BY0055NR",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 15-DA0047NR",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 15-G073NR",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 15-BA040NR",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 4BA40EA",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 1KU69UA",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 15-BS007DS",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP NoteBook 15",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Stream",
+          "models": [
+            {
+              "modelName": "HP Stream 14-CB112WM",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Stream 14-CB020NR",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Stream 14-CB010NR",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Stream 14",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Stream",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Stream 14-CB110NR",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Stream 14-5MP90UAABA",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Stream 11 Pro G4 EE",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "PB360",
+          "models": [
+            {
+              "modelName": "HP PB360440G1",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "PBX360",
+          "models": [
+            {
+              "modelName": "HP PBX36011G1EE",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ZBook Fury",
+          "models": [
+            {
+              "modelName": "HP ZBook Fury G9",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ZBook Fury G8 (17.3-inch)",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ZBook Fury G8 (15.6-inch)",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ZBook Studio",
+          "models": [
+            {
+              "modelName": "HP ZBook Studio G9",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ZBook Studio G8",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ZBook Power",
+          "models": [
+            {
+              "modelName": "HP ZBook Power G8",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ZBook",
+          "models": [
+            {
+              "modelName": "HP ZBook 15 G2",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ZBook 17 G6",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ZBook 15 G3",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ZBook 15 G4",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP ZBook 15U G4",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP ZBook 14U G4",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Z5S49UC",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ZBook Studio X360",
+          "models": [
+            {
+              "modelName": "HP ZBook Studio X360 G5",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Dragonfly Folio",
+          "models": [
+            {
+              "modelName": "HP Dragonfly Folio G3",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Fortis Chromebook",
+          "models": [
+            {
+              "modelName": "HP Fortis 11 G9 Q Chromebook",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Fortis 14 G10 Chromebook",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Pavilion Gaming",
+          "models": [
+            {
+              "modelName": "HP Pavilion Gaming 16",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Pavilion Gaming 15 (AMD)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "ZBook Create",
+          "models": [
+            {
+              "modelName": "HP ZBook Create",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Pavilion Notebook",
+          "models": [
+            {
+              "modelName": "HP Pavilion Notebook",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Mini",
+          "models": [
+            {
+              "modelName": "HP Mini 1104 C6Y78UT",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            }
+          ]
+        },
+        {
+          "seriesName": "Uncategorized",
+          "models": [
+            {
+              "modelName": "HP 15-FD0006TU",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 15-FD0012TU",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 15s (15s-Eq2143au)",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 15Q-DS0029TU",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP Eclipse Notebook",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 15Q-DS0005TU",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 255 E2 7110",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 15-BA081NR",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 15-BW010NR",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP Star Wars",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 15Z",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 17Z",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 5AY25PA",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 17-BS067CL",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 4AK77UA",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 15-DB0076NR",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 3VN32UA",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 15-BS012DS",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 2XP61UTABA",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 10-P018WM",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 14-AX040NR",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 14-AX050NR",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "4GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 15-R074TU",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "8GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 2DQ75UA",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "16GB AMD"
+              }
+            },
+            {
+              "modelName": "HP 15-DA0434TX",
+              "specifications": {
+                "ram": "4GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "4GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP BS066NR",
+              "specifications": {
+                "ram": "8GB",
+                "rom": "500GB SSD",
+                "graphicsCard": "8GB NVIDIA"
+              }
+            },
+            {
+              "modelName": "HP 15-DA0295TU",
+              "specifications": {
+                "ram": "16GB",
+                "rom": "1TB SSD",
+                "graphicsCard": "16GB NVIDIA"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
